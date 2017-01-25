@@ -1,3 +1,5 @@
 # Email Docker Image
 
-email server image based on centos base image
+This repository contains the customerized SMTP server docker images based on CentOS images.
+
+
